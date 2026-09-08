@@ -1,3 +1,4 @@
 node_modules/
 .env
 wcvp_names.csv
+.vercel
