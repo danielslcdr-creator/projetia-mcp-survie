@@ -1,0 +1,2732 @@
+[
+  {
+    "nom": "Knautia drymeja subsp. centrifrons",
+    "famille": "Caprifoliaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Knautia godetii",
+    "famille": "Caprifoliaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Laserpitium gaudinii",
+    "famille": "Apiaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Gymnadenia stiriaca",
+    "famille": "Orchidaceae",
+    "lifeform": "tuberous geophyte",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Onosma vaudensis",
+    "famille": "Boraginaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Odontites viscosus",
+    "famille": "Orobanchaceae",
+    "lifeform": "hemiparasitic annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pulmonaria collina",
+    "famille": "Boraginaceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pulmonaria montana subsp. jurana",
+    "famille": "Boraginaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Quercus × helvetica",
+    "famille": "Fagaceae",
+    "lifeform": "tree",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla pseudodecumbens",
+    "famille": "Rosaceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Valeriana angustifolia",
+    "famille": "Caprifoliaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Telephium imperati",
+    "famille": "Caryophyllaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla acuminatidens",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus juratensis",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus indecorus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus latisectus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus grossidens",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus helveticus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus bergeri",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus vernus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus subtruncatus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus stricticaulis",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus macrotis",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus lunaris",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus lyratus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus pseudocassubicus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Rubus landoltii",
+    "famille": "Rosaceae",
+    "lifeform": "scrambling shrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Koeleria macrantha subsp. helvetica",
+    "famille": "Poaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum davosense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Carduus acicularis",
+    "famille": "Asteraceae",
+    "lifeform": "annual",
+    "climat": "subtropical"
+  },
+  {
+    "nom": "Crupina crupinastrum",
+    "famille": "Asteraceae",
+    "lifeform": "annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum diapyrum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Centaurea deusta",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "subtropical"
+  },
+  {
+    "nom": "Koeleria pyramidata subsp. schroeteriana",
+    "famille": "Poaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Centaurea rhaetica",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum divulsum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum ducommunii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum cultratum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum cyrtolobum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Crepis froelichiana",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Crepis froelichiana subsp. froelichiana",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Crepis zacintha",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum aequabile",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum anemoomum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum aganophytum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum alatiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum angusticeps",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum aperavtum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum argoviense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum asconense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum aureocucullatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum belonodens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum binilobatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum bracteolatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum brevisectoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum caespitosum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum callosum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum candrianii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum cataschistum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum centrotum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum megalocarpum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum meiseliae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum mosciense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum melanops",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum melittostylum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum multijugum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum neuolobum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum oreinicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum ochrospermum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum olivaceoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum oreophilum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pallidissimum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum paradoxachrum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pilatense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum peliogoniatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum praterense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pseudoboreigenum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pseudodilatatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum cinereum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum circinatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum jurassicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum kraettlii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum elongatihastatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum engadinense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum fuornense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum gallicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum glandonense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum grandiflorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum magnobliquum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum magnodilatatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum magnolevigatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum magnoligulatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum mailleferi",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum heterophylloides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum hypopolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum inclinans",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum inclusum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum integriloboides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum leucopodioides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum mazzettii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum luteocucullatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum croceifloroides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pseudorecurvum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pyrochroma",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum pyropum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum samuelssonii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum rufocarpoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum rufinervosum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum rufulum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum scaliforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum serpentinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum silvrettense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum sordidepapposum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum sparsidens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum subargutum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum sulger-bueelii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum strictilobum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum subelatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum submosciense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum subpallidissimum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum subpatens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum uncatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum walo-kochii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. epileion",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. glandulistipes",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. merlasicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. morteysense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. semiperfoliatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. trichanthodium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium balbisianum subsp. abbatiscellanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium balbisianum subsp. subcuspidatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium braunianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium combense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium calcareum subsp. baldense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium dasytrichum subsp. pseudopiliferum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium corrensii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium dermophyllum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium dermophyllum subsp. dermophyllum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium dermophyllum subsp. nufenense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium doronicifolium subsp. arpillense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium adenodermum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium froelichianum subsp. fariniceps",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium froelichianum subsp. pseudexilentum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium froelichianum subsp. pseudopraealpinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium froelichianum subsp. wimmerioides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium erucophyllum subsp. prinzii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium favratii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium flagelliferum subsp. joratense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium glaucinum subsp. chlorotephrinoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium glaucinum subsp. chlorotephrinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium calocymum subsp. calocymum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium canescens subsp. canescens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. subpanduratum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium neocerinthoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium glaucinum subsp. subfraternum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium lycopifolium subsp. pseudovalesiacum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium glaucomorphum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium gombense subsp. gombense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium hypochoeroides subsp. epirense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium hypochoeroides subsp. romieuxianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. densifloccum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium isatifolium subsp. isatifolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium hypastrum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pilosum subsp. faucillense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pilosum subsp. favrei",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium plumieri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium silsinum subsp. silsinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium polatschekii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium jordanii subsp. eriosphaera",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. acrotephraeum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. boltigense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. hegetschweileri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. multiserratum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. obesum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. pseudelatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. subperfoliatiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium prenanthoides subsp. alessicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pseudorionii subsp. pseudorionii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pseudorionii subsp. pictiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pseudalpinum subsp. pseudoglanduliferum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pseudalpinum subsp. tissierei",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pseudolaggeri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium segureum subsp. cirritiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium nigrescens subsp. valpiorae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium rupicola subsp. squarrosulum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium rupicoliforme subsp. rupicoliforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium jurassicum subsp. tephroprenanthes",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium rapunculoides subsp. macrorhombum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pellitum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pallescens subsp. jugicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pallescens subsp. leucobasis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pallescens subsp. maledictum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pallescens subsp. melanocinereum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pallescens subsp. pachysphaericum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium saxifragum subsp. austrovallesiacum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium saxifragum subsp. luteoglaucescens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pseudocorymbosum subsp. pseudocorymbosum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium pseudocorymbosum subsp. aquileiense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pilosella amaurocephala",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium tenuiflorum subsp. glaucoviolascens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium tenuiflorum subsp. sebini",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium thomasianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium schmidtii subsp. pseudorupicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium toutonianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium umbrosum subsp. tenuissimum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium porrectum subsp. macroporrectum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium vollmannii subsp. grimsulicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium wilczekianum subsp. wilczekianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium wilczekii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Picris pauciflora",
+    "famille": "Asteraceae",
+    "lifeform": "annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Schlagintweitia huteri subsp. subpicroides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pilosella paragogiformis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Paeonia officinalis subsp. officinalis",
+    "famille": "Paeoniaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Jacobaea insubrica",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Artemisia vallesiaca",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Artemisia nivalis",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Noccaea eburneosa",
+    "famille": "Brassicaceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Achillea × schroeteri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pulmonaria helvetica",
+    "famille": "Boraginaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Asplenium × brissaginense",
+    "famille": "Aspleniaceae",
+    "lifeform": "lithophyte",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium rapunculoides subsp. laricicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium nigrescens subsp. subrhaeticum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pentanema montanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial or rhizomatous geophyte",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus puberulus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chondrillifolium subsp. crinisquamum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cryptadenum subsp. friburgense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium fulcratum subsp. tavelianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium tephrosoma subsp. valsicum",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium kaeserianum subsp. lacerifrons",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leucophaeum subsp. bernense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium serratum subsp. binzii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. breviflorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium rohacsense subsp. coazii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium flagelliferum subsp. luescheri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium laevigatum subsp. echinodermum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium oxyodon subsp. farinicaule",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium scorzonerifolium subsp. longistipes",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. ochroleucomorphum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dentatum subsp. ormontense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium armerioides subsp. favreanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. sulgeri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium flagelliferum subsp. valsanctae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chlorifolium subsp. vulpianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium oxyodon subsp. tomense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium aphyllum subsp. torrembecense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pellitum subsp. pseudolanatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cirritum subsp. rhenifontis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium wilczekianum subsp. sertigense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium wilczekianum subsp. subdoronicifolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium maculatum subsp. subtenuiflorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium liptoviense subsp. amaurotheca",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Odontites viscosus subsp. viscosus",
+    "famille": "Orobanchaceae",
+    "lifeform": "hemiparasitic annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Telephium imperati subsp. imperati",
+    "famille": "Caryophyllaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Bufonia paniculata subsp. paniculata",
+    "famille": "Caryophyllaceae",
+    "lifeform": "annual or biennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Cyclamen repandum var. repandum",
+    "famille": "Primulaceae",
+    "lifeform": "tuberous geophyte",
+    "climat": "subtropical"
+  },
+  {
+    "nom": "Iberis saxatilis subsp. saxatilis",
+    "famille": "Brassicaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium armerioides subsp. emossonicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium atratum subsp. dolichaetoides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium atratum subsp. sasellae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bifidum subsp. alpicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bifidum subsp. merianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bifidum subsp. submolliceps",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bifidum subsp. subpendulum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bocconei subsp. imhofii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. arcuatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. calathodes",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. dolense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. pantotrichum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. pseudophyllobracteum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bupleuroides subsp. schmidelyanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium caesium subsp. pectinosiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chlorifolium subsp. leoninum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chondrillifolium subsp. gymnopsis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chondrillifolium subsp. pseudosixtinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cryptadenum subsp. subvillosifolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium ctenodon subsp. meeboldii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium ctenodon subsp. ormontinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium ctenodon subsp. triglochinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dentatum subsp. basiviolaceum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dentatum subsp. euryphyllum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dentatum subsp. marmoratum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dentatum subsp. rufobrunnescens",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium diaphanoides subsp. chavannense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium diaphanoides subsp. cinerascentifolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium diaphanoides subsp. haslibergense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium dollineri subsp. subcrinitellum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium doronicifolium subsp. hemileion",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium hispidulum subsp. fusiense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium inuloides subsp. subtridentatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Centaurea deusta subsp. deusta",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "subtropical"
+  },
+  {
+    "nom": "Hieracium lachenalii subsp. pseudacuminatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium lachenalii subsp. tenuifloriforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium misaucinum subsp. gasterenenese",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. adenobifidum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. asterophorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium laevigatum subsp. sagittifrons",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium laevigatum subsp. subnorvegicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leiopogon subsp. coquozianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leiopogon subsp. fauconnetii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leucophaeum subsp. ophiobracchium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium levicaule subsp. ardezense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. caprinense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. maranicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. melanosphaeroides",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. mundellum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. oxyodontopsis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium picroides subsp. christii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium picroides subsp. grimsulanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. pseudomedianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. sagittiferum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. sartonsicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium saxifragum subsp. hemipolium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium scorzonerifolium subsp. basiglaucum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium simia subsp. erectiramum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. tephroneuron",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium subcaesiiforme subsp. hypocyprium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium valdepilosum subsp. eremocephalum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium valdepilosum subsp. lissochlorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium valoddae subsp. moritzii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium viride subsp. triquentinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium nigrescens subsp. schibleri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium onosmoides subsp. onosmellum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium oxyodon subsp. amauradenium",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium wilczekianum subsp. pratigoviense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus allobrogorum",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus lineatus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pseudostenoplecum subsp. andermattense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium apetiolatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leventinum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium microdolichaetum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pallescens subsp. sprecheri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Calamagrostis lonana",
+    "famille": "Poaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium lusseri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium crocatum subsp. faernigense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cydoniifolium subsp. golzerense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum jacobianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. thayngenense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium bifidum subsp. paurodon",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium lachenalii subsp. perramulosum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium tephrosoma subsp. schmidianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium laevigatum subsp. centrohelveticum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Bunias erucago",
+    "famille": "Brassicaceae",
+    "lifeform": "annual or biennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Onosma arenaria subsp. pennina",
+    "famille": "Boraginaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla buseri",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla paicheana",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla subalpina",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla squarrosula",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla trullata",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla westermaieri",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla weberi",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Hieracium valdepilosum subsp. adenodontum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium porrectum subsp. ctenodontopsis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Pilosella fainensis",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum aposeris",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum erntrum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum grypolobum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum fontaniforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum font-queri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum linguatiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum informe",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum infucatulum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum laiense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum lasiodasum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum latebracteatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Taraxacum novoburgense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Adenostyles intermedia",
+    "famille": "Asteraceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium aphyllum subsp. nalunsicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium annae-toutoniae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium annae-toutoniae subsp. annae-toutoniae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium cryptadenum subsp. calopogon",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium calcareum subsp. papperitzii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": ""
+  },
+  {
+    "nom": "Hieracium glaucinum subsp. pseudobounophilum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium pulchellum subsp. morthieri",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium segureum subsp. salassorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium fulcratum subsp. ruebelianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Coronilla minima subsp. minima",
+    "famille": "Fabaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium oxyodon subsp. leucopodum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium viride subsp. magdalenae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium umbrosum subsp. acrotephrophorum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium umbrosum subsp. catagraphum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium valdepilosum subsp. subsinuatiforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium villosum subsp. trichocraspedum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium viride subsp. penninicola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium wilczekianum subsp. muerrense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium subtilissimum subsp. almagellense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium levicaule subsp. echinodontum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium inuloides subsp. subconicum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus chalarocarpus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus clavicornis",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus crenulatus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus genevensis",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus thurgoviae",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium misaucinum subsp. wallimannii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium misaucinum subsp. rhenosilvanum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium misaucinum subsp. pseudogaudinii",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium leucophaeum subsp. aliothianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium murorum subsp. vallisiae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium norvegicum subsp. chodatianum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium norvegicum subsp. semianfractum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium rupicoliforme subsp. bellacristae",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium sparsiramum subsp. bactiacense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium tephrosoma subsp. collevatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium sterzingense subsp. uricola",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium aphyllum subsp. subdentatum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cryptadenum subsp. glandulinervum",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium cryptadenum subsp. misauciniforme",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Hieracium chondrillifolium subsp. trimmisense",
+    "famille": "Asteraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Arum italicum subsp. italicum",
+    "famille": "Araceae",
+    "lifeform": "tuberous geophyte",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Lamium purpureum var. moluccellifolium",
+    "famille": "Lamiaceae",
+    "lifeform": "annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Epipactis stellifera",
+    "famille": "Orchidaceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Narcissus poeticus subsp. verbanensis",
+    "famille": "Amaryllidaceae",
+    "lifeform": "bulbous geophyte",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Phyteuma humile",
+    "famille": "Campanulaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Phyteuma hedraianthifolium",
+    "famille": "Campanulaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Festuca heteropachys",
+    "famille": "Poaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Poa badensis subsp. xerophila",
+    "famille": "Poaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Arenaria gothica var. fugax",
+    "famille": "Caryophyllaceae",
+    "lifeform": "annual or biennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Armeria maritima subsp. purpurea",
+    "famille": "Plumbaginaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Bufonia paniculata",
+    "famille": "Caryophyllaceae",
+    "lifeform": "annual or biennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Cerastium carinthiacum subsp. austroalpinum",
+    "famille": "Caryophyllaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Coronilla minima",
+    "famille": "Fabaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Cyclamen repandum",
+    "famille": "Primulaceae",
+    "lifeform": "tuberous geophyte",
+    "climat": "subtropical"
+  },
+  {
+    "nom": "Draba ladina",
+    "famille": "Brassicaceae",
+    "lifeform": "subshrub",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Epilobium duriaei",
+    "famille": "Onagraceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Euphrasia × christii",
+    "famille": "Orobanchaceae",
+    "lifeform": "hemiparasitic annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Euphrasia cisalpina",
+    "famille": "Orobanchaceae",
+    "lifeform": "hemiparasitic annual",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Genista radiata",
+    "famille": "Fabaceae",
+    "lifeform": "shrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Iberis saxatilis",
+    "famille": "Brassicaceae",
+    "lifeform": "subshrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla florulenta",
+    "famille": "Rosaceae",
+    "lifeform": "",
+    "climat": ""
+  },
+  {
+    "nom": "Ranunculus obtusidentatus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus hirsutulus",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus moorii",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Ranunculus fragifer",
+    "famille": "Ranunculaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla argentidens",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla helvetica",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla legionensis",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla longinodis",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla longiuscula",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla minutidens",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla flavicoma",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla gaillardiana",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla galkinae",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla fissimima",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla gingolphiana",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla jaquetiana",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla gemmia",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla controversa",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla multidens",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla murisserica",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla schmidelyana",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla opaca",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "subalpine or subarctic"
+  },
+  {
+    "nom": "Alchemilla pentaphylloides",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Alchemilla radiisecta",
+    "famille": "Rosaceae",
+    "lifeform": "perennial",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Cotoneaster favargeri",
+    "famille": "Rosaceae",
+    "lifeform": "",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Rubus tumidus",
+    "famille": "Rosaceae",
+    "lifeform": "scrambling shrub",
+    "climat": "temperate"
+  },
+  {
+    "nom": "Asplenium × bosco-gurinense",
+    "famille": "Aspleniaceae",
+    "lifeform": "lithophyte",
+    "climat": "temperate"
+  }
+]
